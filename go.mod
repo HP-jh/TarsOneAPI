@@ -1,3 +1,3 @@
-module github.com/HP-jh/TarsOneAPI
+module tarsoneapi
 
-go 1.22
+go 1.21
